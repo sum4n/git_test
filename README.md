@@ -1,1 +1,1 @@
-This is Odin's first git prorect.
+This is Odin's first git project.
